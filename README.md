@@ -41,6 +41,19 @@
 ### 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 December 2025 - To: 31 December 2025
+
+Total Time: 15 hrs 1 min
+
+CSS          7 hrs 32 mins   >>>>>>>>>>>>>------------   50.20 %
+HTML         6 hrs 9 mins    >>>>>>>>>>---------------   40.96 %
+JSON         28 mins         >------------------------   03.21 %
+Python       22 mins         >------------------------   02.53 %
+Markdown     17 mins         -------------------------   01.94 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
