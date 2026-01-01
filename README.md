@@ -30,15 +30,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yinxiangpingfan/yinxiangpingfan/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 📊 Coding Statistics
 
 <div align="center">
-  
-### 📈 WakaTime Stats
+
+### ⚡ Yearly Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -58,19 +54,29 @@ Markdown     17 mins         -------------------------   01.94 %
 
 </div>
 
-###
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yinxiangpingfan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinxiangpingfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+
+### 📈 WakaTime Charts
+
+<a href="https://wakatime.com/@yinxiangpingfan">
+  <img src="https://wakatime.com/share/@2ff2d7d6-71c9-4a1b-897d-1e4a59eb7d37/af175341-a076-4ea2-bb02-7b5b701205d9.png" width="48%" alt="Languages"/>
+  <img src="https://wakatime.com/share/@2ff2d7d6-71c9-4a1b-897d-1e4a59eb7d37/9659db72-2d5d-4ec3-8107-b2f7279723b6.svg" width="48%" alt="Categories"/>
+</a>
+
 </div>
 
 ###
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yinxiangpingfan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yinxiangpingfan/yinxiangpingfan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yinxiangpingfan/yinxiangpingfan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yinxiangpingfan/yinxiangpingfan/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ###
