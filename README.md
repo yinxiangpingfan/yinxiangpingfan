@@ -65,7 +65,6 @@ CSS                                8 hrs 43 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <a href="https://wakatime.com/@yinxiangpingfan">
   <img src="https://wakatime.com/share/@2ff2d7d6-71c9-4a1b-897d-1e4a59eb7d37/af175341-a076-4ea2-bb02-7b5b701205d9.png" width="48%" alt="Languages"/>
-  <br/>
   <img src="https://wakatime.com/share/@2ff2d7d6-71c9-4a1b-897d-1e4a59eb7d37/9659db72-2d5d-4ec3-8107-b2f7279723b6.svg" width="48%" alt="Categories"/>
 </a>
 
